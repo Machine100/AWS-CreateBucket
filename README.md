@@ -1,2 +1,5 @@
 # AWS-CreateBucket
-Create a bucket via the Resource and also the Client.
+Create a bucket 2 via the Resource.
+
+Todo: How to do this via the client?
+
